@@ -20,11 +20,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1d61fde2-b485-4112-922e-c9bfa7c7ff4a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/cronograma.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dictionaries/savil.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -65,6 +61,14 @@
       <option name="presentableId" value="Default" />
       <updated>1597840172050</updated>
     </task>
+    <task id="LOCAL-00001" summary="Primeiro teste(v.0.1.0.1)">
+      <created>1597844494600</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1597844494601</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -77,12 +81,21 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Primeiro teste(v.0.1.0.1)" />
+    <option name="LAST_COMMIT_MESSAGE" value="Primeiro teste(v.0.1.0.1)" />
   </component>
   <component name="WindowStateProjectService">
     <state x="184" y="28" key="SettingsEditor" timestamp="1597842666564">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
     <state x="184" y="28" key="SettingsEditor/0.0.1366.738@0.0.1366.738" timestamp="1597842666564" />
+    <state x="275" y="136" key="Vcs.Push.Dialog.v2" timestamp="1597844518829">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="275" y="136" key="Vcs.Push.Dialog.v2/0.0.1366.738@0.0.1366.738" timestamp="1597844518829" />
     <state x="346" y="59" key="search.everywhere.popup" timestamp="1597843830386">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
