@@ -20,6 +20,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1d61fde2-b485-4112-922e-c9bfa7c7ff4a" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/css/index.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
@@ -39,7 +40,9 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1gJkcYNFxRggtFHfCwpfjwBTvmE" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -68,8 +71,18 @@
       <option name="project" value="LOCAL" />
       <updated>1597844494601</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="primeira etapa concluída(v.0.1.1)">
+      <created>1597873410803</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1597873410804</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName="*.css" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
@@ -85,17 +98,18 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Primeiro teste(v.0.1.0.1)" />
-    <option name="LAST_COMMIT_MESSAGE" value="Primeiro teste(v.0.1.0.1)" />
+    <MESSAGE value="primeira etapa concluída(v.0.1.1)" />
+    <option name="LAST_COMMIT_MESSAGE" value="primeira etapa concluída(v.0.1.1)" />
   </component>
   <component name="WindowStateProjectService">
     <state x="184" y="28" key="SettingsEditor" timestamp="1597842666564">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
     <state x="184" y="28" key="SettingsEditor/0.0.1366.738@0.0.1366.738" timestamp="1597842666564" />
-    <state x="275" y="136" key="Vcs.Push.Dialog.v2" timestamp="1597844518829">
+    <state x="275" y="136" key="Vcs.Push.Dialog.v2" timestamp="1597873423038">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state x="275" y="136" key="Vcs.Push.Dialog.v2/0.0.1366.738@0.0.1366.738" timestamp="1597844518829" />
+    <state x="275" y="136" key="Vcs.Push.Dialog.v2/0.0.1366.738@0.0.1366.738" timestamp="1597873423038" />
     <state x="346" y="59" key="search.everywhere.popup" timestamp="1597843830386">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
