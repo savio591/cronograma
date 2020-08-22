@@ -19,7 +19,10 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1d61fde2-b485-4112-922e-c9bfa7c7ff4a" name="Default Changelist" comment="" />
+    <list default="true" id="1d61fde2-b485-4112-922e-c9bfa7c7ff4a" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -102,7 +105,14 @@
       <option name="project" value="LOCAL" />
       <updated>1598125394727</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="v.0.1.22">
+      <created>1598125425234</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1598125425234</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="UnknownFeatures">
@@ -126,7 +136,8 @@
     <MESSAGE value="css and start style added(v.0.1.2)" />
     <MESSAGE value="v.0.1.2" />
     <MESSAGE value="v.0.1.21" />
-    <option name="LAST_COMMIT_MESSAGE" value="v.0.1.21" />
+    <MESSAGE value="v.0.1.22" />
+    <option name="LAST_COMMIT_MESSAGE" value="v.0.1.22" />
   </component>
   <component name="WindowStateProjectService">
     <state x="681" y="248" key="FileChooserDialogImpl" timestamp="1598021514243">
@@ -137,10 +148,10 @@
       <screen x="0" y="0" width="1366" height="738" />
     </state>
     <state x="184" y="28" key="SettingsEditor/0.0.1366.738@0.0.1366.738" timestamp="1597842666564" />
-    <state x="275" y="136" key="Vcs.Push.Dialog.v2" timestamp="1598123691182">
+    <state x="275" y="136" key="Vcs.Push.Dialog.v2" timestamp="1598125428954">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state x="275" y="136" key="Vcs.Push.Dialog.v2/0.0.1366.738@0.0.1366.738" timestamp="1598123691182" />
+    <state x="275" y="136" key="Vcs.Push.Dialog.v2/0.0.1366.738@0.0.1366.738" timestamp="1598125428954" />
     <state x="346" y="59" key="search.everywhere.popup" timestamp="1597843830386">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
