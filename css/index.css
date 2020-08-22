@@ -1,15 +1,36 @@
 body {
   background-color: #181a1b;
-  color: #e8e6e3
+  color: #e8e6e3;
+  margin: auto;
 }
 
+.cabecalho {
+  
+  background-color: #464444;
+  width: 100%;
+  float: initial;
+}
+
+.cabecalho h1{
+  text-align: center;
+  margin: auto;
+  padding: 15px;
+  font-size: 50px;
+  color: #c6c6c6;
+}
 .titulo {
   
+  margin: 66px auto;
+  text-align: center;
+  font-size: 51px;
+  font-family: Buda;
+  color: #c6c6c6;
 }
 .tabela {
   
   border: white groove;
   padding: 11px;
+  margin: auto;
 }
 
 .tabela .linha-principal {
