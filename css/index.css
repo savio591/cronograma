@@ -3,20 +3,26 @@ body {
   color: #e8e6e3;
   margin: auto;
 }
-
+header {
+  
+  width: 100%;
+  height: 100px;
+  margin: 0px;
+}
 .cabecalho {
   
   background-color: #464444;
-  width: 100%;
-  float: initial;
+  block-size: inherit;
 }
 
 .cabecalho h1{
   text-align: center;
   margin: auto;
-  padding: 15px;
   font-size: 50px;
   color: #c6c6c6;
+  font-family: Buenard;
+  box-sizing: border-box;
+  padding: 15px;
 }
 .titulo {
   
