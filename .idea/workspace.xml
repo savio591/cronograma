@@ -19,11 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1d61fde2-b485-4112-922e-c9bfa7c7ff4a" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/index.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-    </list>
+    <list default="true" id="1d61fde2-b485-4112-922e-c9bfa7c7ff4a" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -92,7 +88,21 @@
       <option name="project" value="LOCAL" />
       <updated>1598122621875</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="v.0.1.21">
+      <created>1598123684865</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1598123684865</updated>
+    </task>
+    <task id="LOCAL-00006" summary="v.0.1.21">
+      <created>1598125394727</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1598125394727</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="UnknownFeatures">
@@ -115,7 +125,8 @@
     <MESSAGE value="primeira etapa concluída(v.0.1.1)" />
     <MESSAGE value="css and start style added(v.0.1.2)" />
     <MESSAGE value="v.0.1.2" />
-    <option name="LAST_COMMIT_MESSAGE" value="v.0.1.2" />
+    <MESSAGE value="v.0.1.21" />
+    <option name="LAST_COMMIT_MESSAGE" value="v.0.1.21" />
   </component>
   <component name="WindowStateProjectService">
     <state x="681" y="248" key="FileChooserDialogImpl" timestamp="1598021514243">
@@ -126,10 +137,10 @@
       <screen x="0" y="0" width="1366" height="738" />
     </state>
     <state x="184" y="28" key="SettingsEditor/0.0.1366.738@0.0.1366.738" timestamp="1597842666564" />
-    <state x="275" y="136" key="Vcs.Push.Dialog.v2" timestamp="1598122634369">
+    <state x="275" y="136" key="Vcs.Push.Dialog.v2" timestamp="1598123691182">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state x="275" y="136" key="Vcs.Push.Dialog.v2/0.0.1366.738@0.0.1366.738" timestamp="1598122634369" />
+    <state x="275" y="136" key="Vcs.Push.Dialog.v2/0.0.1366.738@0.0.1366.738" timestamp="1598123691182" />
     <state x="346" y="59" key="search.everywhere.popup" timestamp="1597843830386">
       <screen x="0" y="0" width="1366" height="738" />
     </state>

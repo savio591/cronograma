@@ -33,12 +33,11 @@ header {
 }
 .tabela {
   
-  border: white groove;
   padding: 11px;
   text-align: center;
   block-size: auto;
   box-sizing: content-box;
-  font-size: 5vh;
+  font-size: 1.6vw;
   margin: auto;
 }
 
