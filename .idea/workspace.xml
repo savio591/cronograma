@@ -120,7 +120,14 @@
       <option name="project" value="LOCAL" />
       <updated>1598128064143</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="v. 0.1.30">
+      <created>1598130031147</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1598130031147</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="UnknownFeatures">
@@ -146,7 +153,8 @@
     <MESSAGE value="v.0.1.21" />
     <MESSAGE value="v.0.1.22" />
     <MESSAGE value="v.0.1.23" />
-    <option name="LAST_COMMIT_MESSAGE" value="v.0.1.23" />
+    <MESSAGE value="v. 0.1.30" />
+    <option name="LAST_COMMIT_MESSAGE" value="v. 0.1.30" />
   </component>
   <component name="WindowStateProjectService">
     <state x="681" y="248" key="FileChooserDialogImpl" timestamp="1598021514243">
@@ -157,10 +165,10 @@
       <screen x="0" y="0" width="1366" height="738" />
     </state>
     <state x="184" y="28" key="SettingsEditor/0.0.1366.738@0.0.1366.738" timestamp="1597842666564" />
-    <state x="275" y="136" key="Vcs.Push.Dialog.v2" timestamp="1598128066531">
+    <state x="275" y="136" key="Vcs.Push.Dialog.v2" timestamp="1598130037960">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state x="275" y="136" key="Vcs.Push.Dialog.v2/0.0.1366.738@0.0.1366.738" timestamp="1598128066531" />
+    <state x="275" y="136" key="Vcs.Push.Dialog.v2/0.0.1366.738@0.0.1366.738" timestamp="1598130037960" />
     <state x="346" y="59" key="search.everywhere.popup" timestamp="1597843830386">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
