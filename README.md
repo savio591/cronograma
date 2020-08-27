@@ -5,3 +5,5 @@ Estude, sei que não é fácil, mas você tem tempo, você pode organizar, mas p
 Você no deserto buscando algo que nem sabe, sozinho você não está(eu acho), mas tente, é apenas isso que você tem!<br>
 <br>
 É certo que fazer este cronograma vai te trazer mto conhecimento de HTML e CSS. Cada projeto lhe trará diversos desafios!<br>
+<br>
+Tu não tá nem seguindo o cronograma carai.
