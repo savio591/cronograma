@@ -19,7 +19,9 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1d61fde2-b485-4112-922e-c9bfa7c7ff4a" name="Default Changelist" comment="" />
+    <list default="true" id="1d61fde2-b485-4112-922e-c9bfa7c7ff4a" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -36,6 +38,7 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="UPDATE_TYPE" value="REBASE" />
   </component>
+  <component name="JupyterTrust" id="da3e36f6-26b4-4436-8bd4-d02acdb3233a" />
   <component name="ProjectId" id="1gJkcYNFxRggtFHfCwpfjwBTvmE" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -50,7 +53,12 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../portfolio" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../savio591.github.io" />
+    <property name="node.js.detected.package.stylelint" value="true" />
+    <property name="node.js.path.for.package.stylelint" value="project" />
+    <property name="node.js.selected.package.stylelint" value="" />
+    <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="Errors" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -61,6 +69,10 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1597840172050</updated>
+      <workItem from="1599493083151" duration="423000" />
+      <workItem from="1599506511040" duration="716000" />
+      <workItem from="1599507432620" duration="612000" />
+      <workItem from="1599655216572" duration="39000" />
     </task>
     <task id="LOCAL-00001" summary="Primeiro teste(v.0.1.0.1)">
       <created>1597844494600</created>
@@ -135,6 +147,9 @@
     <option name="localTasksCounter" value="11" />
     <servers />
   </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
   <component name="UnknownFeatures">
     <option featureType="com.intellij.fileTypeFactory" implementationName="*.css" />
   </component>
@@ -163,14 +178,22 @@
     <option name="LAST_COMMIT_MESSAGE" value="v.0.1.3" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="681" y="248" key="FileChooserDialogImpl" timestamp="1598192150240">
+    <state x="527" y="261" key="#Stylelint" timestamp="1599514272878">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state x="681" y="248" key="FileChooserDialogImpl/0.0.1366.738@0.0.1366.738" timestamp="1598192150240" />
-    <state x="184" y="28" key="SettingsEditor" timestamp="1597842666564">
+    <state x="527" y="261" key="#Stylelint/0.0.1366.738@0.0.1366.738" timestamp="1599514272878" />
+    <state x="300" y="72" width="977" height="600" key="#com.intellij.featureStatistics.actions.ShowFeatureUsageStatisticsDialog" timestamp="1599493165634">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state x="184" y="28" key="SettingsEditor/0.0.1366.738@0.0.1366.738" timestamp="1597842666564" />
+    <state x="300" y="72" width="977" height="600" key="#com.intellij.featureStatistics.actions.ShowFeatureUsageStatisticsDialog/0.0.1366.738@0.0.1366.738" timestamp="1599493165634" />
+    <state x="681" y="248" key="FileChooserDialogImpl" timestamp="1599655253782">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="681" y="248" key="FileChooserDialogImpl/0.0.1366.738@0.0.1366.738" timestamp="1599655253782" />
+    <state x="184" y="28" key="SettingsEditor" timestamp="1599493383583">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="184" y="28" key="SettingsEditor/0.0.1366.738@0.0.1366.738" timestamp="1599493383583" />
     <state x="275" y="136" key="Vcs.Push.Dialog.v2" timestamp="1598191975064">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
