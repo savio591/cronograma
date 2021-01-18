@@ -8,3 +8,5 @@ Você no deserto buscando algo que nem sabe, sozinho você não está(eu acho), 
 <br>
 Tu não tá nem seguindo o cronograma carai.<br>
 Vamos fazer um redesign até final de outubro?
+
+Dominamos o html e css mas o redesign acabou não sendo feito. Próximo nível, vamos jogar esses dados em uma serveless database até final de Janeiro?
