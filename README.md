@@ -14,3 +14,5 @@ Dominamos o html e css mas o redesign acabou não sendo feito. Próximo nível, 
 [25/01/2021] - E se o cronograma puder ser salvo em um banco de dados? Qualquer pessoa poderá editar e acessar o seu através de um link gerado e com uma senha criptografada, se ele quiser.
 
 [25/01/2021] - E se puder alterar temas, ser customizável?
+
+[18/03/2021] - Deu tudo errado? Comece recriando o layout e reinicializar o webapp em ReactJS. PRAZO 10/04/2021.
